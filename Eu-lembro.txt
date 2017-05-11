@@ -1,0 +1,5 @@
+git init . = inicia repositorio local na pasta selecionada
+git add . = adicioma tudo na pasta
+git commit -m"Mensagem" = envia um commit com a mensagem entre aspas
+git remote add origin https://github.com/MRcabeca/Projeto-TechWeek-2017.git = o remote é um repositorio remoto, add adiciona, origin é nome padrão e após isso link
+git push -u master=
